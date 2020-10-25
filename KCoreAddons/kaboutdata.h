@@ -13,7 +13,7 @@
 #ifndef KABOUTDATA_H
 #define KABOUTDATA_H
 
-#include <kcoreaddons_export.h>
+#include "kcoreaddons_export.h"
 #include <QString>
 #include <QSharedDataPointer>
 #include <QVariant>
